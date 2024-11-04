@@ -10,7 +10,7 @@
 
 ## Description and links
   We will going through best neighbeirhood for family fun outside
-  Parks - https://data.wprdc.org/dataset/parks1
+  Parks - https://data.wprdc.org/dataset/parks
   Pools - https://data.wprdc.org/dataset/city-pools
   PlayGrounds - https://data.wprdc.org/dataset/playgrounds
 
