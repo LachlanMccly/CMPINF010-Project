@@ -15,4 +15,4 @@
   PlayGrounds - https://data.wprdc.org/dataset/playgrounds
 
 ## Overview
-  We will be collecting data of pools, playgrounds, and parks in the Pittsburgh neighborhoods in order to find what neighborhood has the most **family fun outside**. Analysis will be based on the number of recreational places and quality.
+  We will be collecting data of pools, playgrounds, and parks in the Pittsburgh neighborhoods in order to find what neighborhood has the most **family fun outside**. Analysis will be based on the number of recreational places.
